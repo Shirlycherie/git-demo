@@ -1,0 +1,19 @@
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+hello Git! I am Shulei!
+rm -rf/*
+:wq
+:wq
+:WQ
+
+:wq
+
