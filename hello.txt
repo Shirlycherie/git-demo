@@ -1,3 +1,4 @@
+hello Git! I am Shulei!2222222222222222
 hello Git! I am Shulei!
 hello Git! I am Shulei!
 hello Git! I am Shulei!
@@ -9,11 +10,3 @@ hello Git! I am Shulei!
 hello Git! I am Shulei!
 hello Git! I am Shulei!
 hello Git! I am Shulei!
-hello Git! I am Shulei!
-rm -rf/*
-:wq
-:wq
-:WQ
-
-:wq
-
