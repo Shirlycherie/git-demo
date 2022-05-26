@@ -9,4 +9,4 @@ hello Git! I am Shulei!
 hello Git! I am Shulei!
 hello Git! I am Shulei!
 hello Git! I am Shulei!
-hello Git! I am Shulei!
+hello Git! I am Shulei! hot-fix test
